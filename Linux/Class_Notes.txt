@@ -21,6 +21,7 @@ Day 3 : 28th August 2025
 		- Is an interface between the user applications and underlying Hardware.
 		- Linux OS is based on the Command User Interface
 		- Core of Linux OS is called kernel!
+				The kernel is the main part of the operating system that directly interacts 					with the hardware and controls everything in the system.
 			Components of Linux OS Architecture
 				- Networking 
 				- Storage 
@@ -32,7 +33,7 @@ Day 3 : 28th August 2025
 				- Process 
 			
 		- Command Line Interface 
-		
+	
 		- Linux Distributions :::
 		
 			- Flavors of Linux OS 
@@ -40,7 +41,10 @@ Day 3 : 28th August 2025
 				- Centos / RHEL 
 				- Debian / Ubuntu 
 				- Fedora	
-				
+Ubuntu is a ready-to-use Operating System built on top of the Linux kernel.
+Linux (kernel)  → Engine
+Ubuntu (Linux distribution) → Full car with engine, body, seats, controls, etc.
+Ubuntu is a Linux-based operating system that uses the Linux kernel and provides a complete, easy-to-use system for desktops, servers, and cloud environments.
 		
 		
 		Lab Requirements!
